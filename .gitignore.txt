@@ -1,0 +1,6 @@
+# Ignore raw data and virtual env
+data/
+venv/
+__pycache__/
+*.pkl
+*.ipynb_checkpoints
